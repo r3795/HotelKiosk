@@ -5,8 +5,8 @@
   - 2021.09 ~ 2021.12
 
 ## 🛠 Development Environment
-  - Tool : [`Eclipse`](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  - Language : [`JAVA`](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  -  Tool : ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  -  Language : ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tool 내 스크립트 출력 방식으로 구현
 
