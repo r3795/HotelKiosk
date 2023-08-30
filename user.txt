@@ -1,0 +1,7 @@
+lee1 lll lee 54 25000
+kim2 kkk kim 67 30000
+park3 ppp park 250 95000
+cho4 ccc cho 99 50000
+kang5 kkkk kang 7 3000
+min6 mmm min 20 8500
+bae7 bbb bae 1 0
